@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amaanprobably&color=blue)
 
-I am a Computer Science student and aspiring Android Engineer who loves to experiment and push the boundaries of what's possible in mobile development. I'm passionate about building clean, offline-first experiences and am actively seeking a **part-time Android development internship** where I can contribute to impactful products.
+I am a Computer Science student and aspiring Android Engineer who loves to experiment and push the boundaries of what's possible in mobile development. I'm passionate about building clean, offline-first experiences and am actively seeking a **part-time/full-time Android development internship/job** where I can contribute to impactful products.
 
 ### 🔭 What I'm Working On
 * 🎮 **Building a Game Engine:** I am currently developing my own custom game engine from scratch and actively building a game on top of it.
