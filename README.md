@@ -5,8 +5,7 @@
 I am a Computer Science student and aspiring Android Engineer who loves to experiment and push the boundaries of what's possible in mobile development. I'm passionate about building clean, offline-first experiences and am actively seeking a **part-time/full-time Android development internship/job** where I can contribute to impactful products.
 
 ### 🔭 What I'm Working On
-* 🎮 **Building a Game Engine:** I am currently developing my own custom game engine from scratch and actively building a game on top of it.
-* 🚀 **Future Vision:** I plan to evolve this engine into a dedicated, open-source library that any developer can easily plug into their Android apps to add rich, interactive minigames.
+* 🎮 **Building a Gamified Apps:** I am currently developing a gamified app to mimic the real-life experience of shopping at a convenience store.
 * 📱 **Modern Android Apps:** Continuously improving my portfolio projects (like my offline-first Pokedex app) using modern architecture and the latest Jetpack libraries.
 
 ### 🛠️ Tech Stack & Tools
