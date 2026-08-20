@@ -13,8 +13,6 @@
   </a>
 </h1>
 
-**Android Engineer from Delhi, India 🇮🇳**
-
 I build **design-forward, production-grade Android experiences** with Kotlin and Jetpack Compose, with hands-on full-stack experience across **Ktor, MongoDB, REST APIs, and deployment**.
 
 I like building products end-to-end — from the UI and rendering layer to authentication, caching, synchronization, monitoring, and backend infrastructure.
