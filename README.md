@@ -158,25 +158,3 @@ A fitness application built end-to-end with a focus on custom visualization.
 
 🎨 Designed and shipped from UI through release build.
 
----
-
-# 🎯 Areas I'm Interested In
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">📱<br><b>Android Engineering</b></td>
-<td align="center">🎨<br><b>UI / UX & Interaction Design</b></td>
-<td align="center">🖥️<br><b>Computer Graphics & Rendering</b></td>
-<td align="center">🔄<br><b>Offline-First Architecture</b></td>
-</tr>
-<tr>
-<td align="center">🌐<br><b>Backend Systems with Ktor</b></td>
-<td align="center">🧩<br><b>Kotlin Multiplatform</b></td>
-<td align="center">🎮<br><b>Game Development</b></td>
-<td align="center">🏗️<br><b>Mobile System Design</b></td>
-</tr>
-</table>
-
-</div>
