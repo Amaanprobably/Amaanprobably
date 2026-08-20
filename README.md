@@ -4,7 +4,14 @@
 
 </div>
 
-# Hi 👋, I'm Amaan Qureshi
+<h1>
+  Hi 👋, I'm Amaan Qureshi
+  <a href="https://www.linkedin.com/in/amaan-q/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="32"
+         alt="LinkedIn"/>
+  </a>
+</h1>
 
 **Android Engineer from Delhi, India 🇮🇳**
 
@@ -175,33 +182,3 @@ A fitness application built end-to-end with a focus on custom visualization.
 </table>
 
 </div>
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amaanprobably&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanprobably&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amaanprobably&theme=radical&hide_border=false" />
-
-</td>
-
-<td width="35%" valign="middle" align="center">
-
-<h2>🤝 Let's Connect</h2>
-
-<a href="https://www.linkedin.com/in/amaan-q/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
