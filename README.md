@@ -145,16 +145,3 @@ A Pokédex built around fast local access and minimal footprint.
 📦 **Under 10 MB APK**
 
 🔗 [Repository](https://github.com/Amaanprobably/PokeDex)
-
----
-
-### 💪 FitFlow
-
-**Fitness Logging & Tracking · Android**
-
-A fitness application built end-to-end with a focus on custom visualization.
-
-📊 Animated ring charts and Bézier-curve performance graphs built directly with **Canvas / DrawScope** rather than a charting library.
-
-🎨 Designed and shipped from UI through release build.
-
