@@ -6,11 +6,6 @@
 
 <h1>
   Hi 👋, I'm Amaan Qureshi
-  <a href="https://www.linkedin.com/in/amaan-q/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-         width="32"
-         alt="LinkedIn"/>
-  </a>
 </h1>
 
 I build **design-forward, production-grade Android experiences** with Kotlin and Jetpack Compose, with hands-on full-stack experience across **Ktor, MongoDB, REST APIs, and deployment**.
@@ -47,14 +42,6 @@ I like building products end-to-end — from the UI and rendering layer to authe
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge\&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### 🏗️ Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Offline--First-00A896?style=for-the-badge"/>
-</p>
 
 ### ⚡ Data & Concurrency
 
