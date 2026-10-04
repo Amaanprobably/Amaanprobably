@@ -17,9 +17,9 @@ I like building products end-to-end — from the UI and rendering layer to authe
 ## 🚀 What I'm Up To
 
 * 🔭 **Currently building:** Android applications with Kotlin + Jetpack Compose
-* 🌱 **Currently exploring:** Kotlin Multiplatform, computer graphics & rendering
+* 💡 **Currently exploring:** Kotlin Multiplatform, computer graphics & rendering
+* 🌱 **Contributing to:** StreetComplete
 * 🛠️ **What I enjoy:** Offline-first systems, custom UI, backend architecture & performance
-* 💡 **Ask me about:** Android, Compose, Kotlin, Ktor, offline-first architecture
 * 🎨 **I care about:** Interfaces that feel crafted rather than templated
 * ⚡ **Fun fact:** If a standard component doesn't give me the interaction I want, I'll probably draw it myself.
 
@@ -68,7 +68,6 @@ I like building products end-to-end — from the UI and rendering layer to authe
   <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Rate%20Limiting-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Caching-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Token%20Rotation-6C5CE7?style=for-the-badge"/>
 </p>
 
 ### 🚀 DevOps & Tooling
